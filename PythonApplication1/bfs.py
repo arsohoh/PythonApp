@@ -29,4 +29,5 @@ def bfsOrder (visited,graph,node):
 
 
 bfsOrder(visited,graph,'A');
+print("Test done");
 
